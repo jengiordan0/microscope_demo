@@ -1,1 +1,1 @@
-# Summer '23 AI in Medicine microscope_demo
+# Summer '23 AI in Medicine Microscope Lab
