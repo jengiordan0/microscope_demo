@@ -1,4 +1,59 @@
+
+
 <html>
-  Hello universe
-  <img src="https://d1g9yur4m4naub.cloudfront.net/image-handler/ts/20200526085524/ri/673/picture/2020/5/shutterstock_1384158221.jpg">
+    <head>
+        <title>About Light Microscopes</title>
+        
+        <style>
+            body {
+                font-family: Arial, sans-serif;
+            }
+            header, main, footer {
+                margin: 0 auto;
+                max-width: 800px;
+            }
+            header, footer {
+                background-color: #f8f9fa;
+                padding: 20px;
+                text-align: center;
+            }
+        </style>
+        
+    </head>
+    <body>
+        
+        <header>
+            <h1>Welcome to the World of Light Microscopes</h1>
+        </header>
+        
+        <main>
+            <h2>What is a Light Microscope?</h2>
+            <p>
+                A light microscope is a type of microscope that uses visible light and a system of lenses to magnify 
+                images of small subjects. They are also known as optical microscopes.
+            </p>
+
+            <h2>Types of Light Microscopes</h2>
+            <ul>
+                <li><b>Compound Light Microscope:</b> Uses more than one lens, providing higher magnification.</li>
+                <li><b>Stereo Microscope:</b> Provides a three-dimensional view of the sample.</li>
+                <li><b>Confocal Microscope:</b> Uses a laser to scan layers of cells to construct a 3D image.</li>
+                <li><b>Phase-Contrast Microscope:</b> Enhances contrast in transparent and colorless objects.</li>
+                <li><b>Fluorescence Microscope:</b> Uses high energy light to illuminate the specimen which will then emit a lower energy light.</li>
+            </ul>
+
+            <h2>How to Use a Light Microscope</h2>
+            <ol>
+                <li>Start with the lowest power objective lens.</li>
+                <li>Place the slide on the stage and secure it.</li>
+                <li>Adjust the focus until clear.</li>
+                <li>Switch to higher power lenses as needed.</li>
+                <li>Adjust the light intensity for clarity.</li>
+            </ol>
+        </main>
+
+        <footer>
+            <p>© 2023 Light Microscopes | All rights reserved</p>
+        </footer>
+    </body>
 </html>
