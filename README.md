@@ -13,7 +13,7 @@
 2.
 3.
 
-[Click Here](https://https://www.pinterest.com/jennlynngio94/)
+[Click Here](https://www.pinterest.com/jennlynngio94/)
 
 ```
 print("hello world")
